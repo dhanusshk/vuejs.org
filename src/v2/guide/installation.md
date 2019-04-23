@@ -69,6 +69,10 @@ NPM is the recommended installation method when building large scale application
 # latest stable
 $ npm install vue
 ```
+or
+``` bash
+$ npm install -g @vue/cli
+```
 
 ## CLI
 
